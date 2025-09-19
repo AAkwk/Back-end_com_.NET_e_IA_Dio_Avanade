@@ -1,0 +1,15 @@
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\bin\Debug\net9.0\ExemploAula.exe
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\bin\Debug\net9.0\ExemploAula.deps.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\bin\Debug\net9.0\ExemploAula.runtimeconfig.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\bin\Debug\net9.0\ExemploAula.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\bin\Debug\net9.0\ExemploAula.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ExemploAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ExemploAula.AssemblyInfoInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ExemploAula.AssemblyInfo.cs
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ExemploAula.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ExemploAula.sourcelink.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ExemploAula.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\refint\ExemploAula.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ExemploAula.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ExemploAula.genruntimeconfig.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\03-Operadores_Aritmeticos_e_a_Classe_Math\ExemploAula\obj\Debug\net9.0\ref\ExemploAula.dll
