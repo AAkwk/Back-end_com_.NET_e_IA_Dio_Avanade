@@ -1,0 +1,15 @@
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.exe
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.deps.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.sourcelink.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\refint\OperadoresLogicos.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresLogicos\obj\Debug\net9.0\ref\OperadoresLogicos.dll
