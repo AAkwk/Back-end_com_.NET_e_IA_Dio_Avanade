@@ -1,0 +1,15 @@
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\bin\Debug\net9.0\OperadorDeAtribuicao.exe
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\bin\Debug\net9.0\OperadorDeAtribuicao.deps.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\bin\Debug\net9.0\OperadorDeAtribuicao.runtimeconfig.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\bin\Debug\net9.0\OperadorDeAtribuicao.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\bin\Debug\net9.0\OperadorDeAtribuicao.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\OperadorDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\OperadorDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\OperadorDeAtribuicao.AssemblyInfo.cs
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\OperadorDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\OperadorDeAtribuicao.sourcelink.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\OperadorDeAtribuicao.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\refint\OperadorDeAtribuicao.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\OperadorDeAtribuicao.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\OperadorDeAtribuicao.genruntimeconfig.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadorDeAtribuicao\obj\Debug\net9.0\ref\OperadorDeAtribuicao.dll

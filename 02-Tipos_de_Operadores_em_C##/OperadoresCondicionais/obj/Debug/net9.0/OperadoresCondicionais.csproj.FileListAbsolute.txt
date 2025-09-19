@@ -1,0 +1,15 @@
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\bin\Debug\net9.0\OperadoresCondicionais.exe
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\bin\Debug\net9.0\OperadoresCondicionais.deps.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\bin\Debug\net9.0\OperadoresCondicionais.runtimeconfig.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\bin\Debug\net9.0\OperadoresCondicionais.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\bin\Debug\net9.0\OperadoresCondicionais.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\OperadoresCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\OperadoresCondicionais.AssemblyInfoInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\OperadoresCondicionais.AssemblyInfo.cs
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\OperadoresCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\OperadoresCondicionais.sourcelink.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\OperadoresCondicionais.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\refint\OperadoresCondicionais.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\OperadoresCondicionais.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\OperadoresCondicionais.genruntimeconfig.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\02-Tipos_de_Operadores_em_C##\OperadoresCondicionais\obj\Debug\net9.0\ref\OperadoresCondicionais.dll
