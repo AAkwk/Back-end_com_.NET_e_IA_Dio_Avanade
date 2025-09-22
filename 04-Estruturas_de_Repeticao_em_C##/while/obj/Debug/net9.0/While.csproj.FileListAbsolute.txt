@@ -1,0 +1,15 @@
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\bin\Debug\net9.0\While.exe
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\bin\Debug\net9.0\While.deps.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\bin\Debug\net9.0\While.runtimeconfig.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\bin\Debug\net9.0\While.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\bin\Debug\net9.0\While.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\While.AssemblyInfoInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\While.AssemblyInfo.cs
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\While.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\While.sourcelink.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\While.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\refint\While.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\While.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\While.genruntimeconfig.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\While\obj\Debug\net9.0\ref\While.dll

@@ -1,0 +1,15 @@
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\bin\Debug\net9.0\MenuInterativo.exe
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\bin\Debug\net9.0\MenuInterativo.deps.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\bin\Debug\net9.0\MenuInterativo.runtimeconfig.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\bin\Debug\net9.0\MenuInterativo.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\bin\Debug\net9.0\MenuInterativo.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\MenuInterativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\MenuInterativo.AssemblyInfoInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\MenuInterativo.AssemblyInfo.cs
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\MenuInterativo.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\MenuInterativo.sourcelink.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\MenuInterativo.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\refint\MenuInterativo.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\MenuInterativo.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\MenuInterativo.genruntimeconfig.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\MenuInterativo\obj\Debug\net9.0\ref\MenuInterativo.dll

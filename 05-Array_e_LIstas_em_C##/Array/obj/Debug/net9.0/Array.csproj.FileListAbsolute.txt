@@ -1,0 +1,15 @@
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\bin\Debug\net9.0\Array.exe
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\bin\Debug\net9.0\Array.deps.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\bin\Debug\net9.0\Array.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\bin\Debug\net9.0\Array.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\Array.sourcelink.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\Array.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\refint\Array.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\Array.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\05-Array_e_LIstas_em_C##\Array\obj\Debug\net9.0\ref\Array.dll

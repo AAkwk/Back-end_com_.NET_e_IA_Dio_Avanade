@@ -1,0 +1,15 @@
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfo.cs
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\DoWhile.sourcelink.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\bin\Debug\net9.0\DoWhile.exe
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\bin\Debug\net9.0\DoWhile.deps.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\bin\Debug\net9.0\DoWhile.runtimeconfig.json
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\bin\Debug\net9.0\DoWhile.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\bin\Debug\net9.0\DoWhile.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\DoWhile.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\refint\DoWhile.dll
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\DoWhile.pdb
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\DoWhile.genruntimeconfig.cache
+C:\Users\aakaw\OneDrive\Área de Trabalho\Back-end_com_.NET_e_IA_Dio_Avanade\04-Estruturas_de_Repeticao_em_C##\DoWhile\obj\Debug\net9.0\ref\DoWhile.dll
